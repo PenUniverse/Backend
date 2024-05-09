@@ -2,7 +2,12 @@
     "status": 200,
     "versions": [
         {
-            "version": [ 0, 0, 1 ]
+            "version": [ 0, 0, 1 ],
+            "next": [ 0, 0, 2],
+            "size": 0,
+            "note": "for test only.",
+            "download": "https://testonly.com/a.zip",
+            "md5": "unbengable4"
         }
     ]
 }
